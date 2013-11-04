@@ -1385,7 +1385,7 @@
 		<name>Zookabotk</name>
 		<url>http://zookabot.com/</url>
 	</spider>
-	############################## Eigene Spiderliste KittBlog ##############################
+	############################## Eigene Spiderliste + KittBlog ##############################
 	<spider ident="siteintel.net bot">
 		<name>SiteIntel.net Bot</name>		
 		<url>http://siteintel.net/</url>
